@@ -4,6 +4,7 @@ from OptiTrackPython import NatNetClient
 # client_ip='192.168.2.102',
 #                  server_ip="192.168.2.100",
 
+
 class TestNatNetClient(object):
     def __init__(self,
                  client_ip="192.168.2.104",
